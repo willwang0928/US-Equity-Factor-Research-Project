@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Data
+*.db
+*.sqlite
+*.sqlite3
+data/raw/
+data/interim/
+*.csv
+*.parquet
+*.feather
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# Claude Code local config
+.claude/
+
+# Env
+.env

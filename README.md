@@ -36,4 +36,4 @@ Regression / gradient-boosted model combining the factors, using time-ordered cr
 
 ## Status
 
-Phase 1 in progress.
+Phase 1 complete — data layer built and quality-checked; see [`docs/data_layer.md`](docs/data_layer.md) for the final dataset shape and known limitations. Phase 2 (momentum factor + backtest loop) next.
